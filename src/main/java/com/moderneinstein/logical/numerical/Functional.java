@@ -171,7 +171,8 @@ public  class Functional {
     public static List<String>  segment(String mains,char delims){
         List<String> serial = new ArrayList<String>( ) ; 
         int upper =   0   ; // mains.length ()-1 ; 
-        int lower = 0 ; 
+        int lower = 0 ;  
+        while(mains.charAt(upper)==delims){upper++  ; lower ++ ;  }
         while(upper<mains.length()){
             while( upper<mains.length( )&&mains.charAt(upper)!=delims){upper++ ;  } 
             String pounds = mains.substring( lower,upper ) ; 

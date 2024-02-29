@@ -1,0 +1,292 @@
+Incorrect,or Missing Arguments provided ; The value of the function is : 
+-8.6R^0+ 1.0R^1
+
+88
+The value of the function is : 
+71.38000000000001R^0+ -16.9R^1+ 1.0R^2
+
+88
+The value of the function is : 
+-578.178R^0+ 208.26999999999998R^1+ -25.0R^2+ 1.0R^3
+
+88
+The value of the function is : 
+-24090.750000000186R^0+ 8677.916666666732R^1+ -1041.6666666666747R^2+ 41.666666666666984R^3
+
+The value of the function is : 
+-453409.8375825035R^0+ 163326.28857083456R^1+ -19605.114583333485R^2+ 784.2045833333393R^3
+
+The value of the function is : 
+-8.7R^0+ 1.0R^1
+
+88
+The value of the function is : 
+72.21R^0+ -17.0R^1+ 1.0R^2
+
+88
+The value of the function is : 
+-584.901R^0+ 209.90999999999997R^1+ -25.1R^2+ 1.0R^3
+
+88
+The value of the function is : 
+38993.40000000027R^0+ -13994.000000000096R^1+ 1673.3333333333453R^2+ -66.66666666666714R^3
+
+The value of the function is : 
+721578.716010005R^0+ -258961.0691000018R^1+ 30965.284333333555R^2+ -1233.6766666666754R^3
+
+The value of the function is : 
+-8.7R^0+ 1.0R^1
+
+88
+The value of the function is : 
+74.82R^0+ -17.299999999999997R^1+ 1.0R^2
+
+88
+The value of the function is : 
+-606.0419999999999R^0+ 214.94999999999996R^1+ -25.4R^2+ 1.0R^3
+
+88
+The value of the function is : 
+-25251.75000000004R^0+ 8956.250000000015R^1+ -1058.333333333335R^2+ 41.666666666666735R^3
+
+The value of the function is : 
+-443544.96861000074R^0+ 157315.81475000025R^1+ -18589.540333333363R^2+ 731.8716666666679R^3
+
+The value of the function is : 
+-8.7R^0+ 1.0R^1
+
+88
+The value of the function is : 
+74.82R^0+ -17.299999999999997R^1+ 1.0R^2
+
+88
+The value of the function is : 
+-621.006R^0+ 218.40999999999997R^1+ -25.599999999999998R^2+ 1.0R^3
+
+88
+The value of the function is : 
+10350.099999999951R^0+ -3640.1666666666492R^1+ 426.66666666666464R^2+ -16.66666666666659R^3
+
+The value of the function is : 
+175373.12940999915R^0+ -61679.348016666365R^1+ 7229.482666666632R^2+ -282.40166666666534R^3
+
+The value of the function is : 
+-0.002083333333473547R^3+ 0.11208333333888731R^2+ 1.6862041666463483R^1+ -2.9607725001114886R^0
+
+The solution to the Lagrange Interpolation problem is :
+19.137824166710928
+Incorrect,or Missing Arguments provided ; [ 
+[ 8.7 , 18.82091 ][ 8.6 , 18.50515 ][ 8.3 , 17.56492 ][ 8.1 , 16.9441 ]
+ ] 
+The value of the function is : 
+-8.6R^0+ 1.0R^1
+
+The value of the function is : 
+71.38000000000001R^0+ -16.9R^1+ 1.0R^2
+
+The value of the function is : 
+-578.178R^0+ 208.26999999999998R^1+ -25.0R^2+ 1.0R^3
+
+The value of the function is : 
+-24090.750000000186R^0+ 8677.916666666732R^1+ -1041.6666666666747R^2+ 41.666666666666984R^3
+
+The value of the function is : 
+-453409.8375825035R^0+ 163326.28857083456R^1+ -19605.114583333485R^2+ 784.2045833333393R^3
+
+The value of the function is : 
+-8.7R^0+ 1.0R^1
+
+The value of the function is : 
+72.21R^0+ -17.0R^1+ 1.0R^2
+
+The value of the function is : 
+-584.901R^0+ 209.90999999999997R^1+ -25.1R^2+ 1.0R^3
+
+The value of the function is : 
+38993.40000000027R^0+ -13994.000000000096R^1+ 1673.3333333333453R^2+ -66.66666666666714R^3
+
+The value of the function is : 
+721578.716010005R^0+ -258961.0691000018R^1+ 30965.284333333555R^2+ -1233.6766666666754R^3
+
+The value of the function is : 
+-8.7R^0+ 1.0R^1
+
+The value of the function is : 
+74.82R^0+ -17.299999999999997R^1+ 1.0R^2
+
+The value of the function is : 
+-606.0419999999999R^0+ 214.94999999999996R^1+ -25.4R^2+ 1.0R^3
+
+The value of the function is : 
+-25251.75000000004R^0+ 8956.250000000015R^1+ -1058.333333333335R^2+ 41.666666666666735R^3
+
+The value of the function is : 
+-443544.96861000074R^0+ 157315.81475000025R^1+ -18589.540333333363R^2+ 731.8716666666679R^3
+
+The value of the function is : 
+-8.7R^0+ 1.0R^1
+
+The value of the function is : 
+74.82R^0+ -17.299999999999997R^1+ 1.0R^2
+
+The value of the function is : 
+-621.006R^0+ 218.40999999999997R^1+ -25.599999999999998R^2+ 1.0R^3
+
+The value of the function is : 
+10350.099999999951R^0+ -3640.1666666666492R^1+ 426.66666666666464R^2+ -16.66666666666659R^3
+
+The value of the function is : 
+175373.12940999915R^0+ -61679.348016666365R^1+ 7229.482666666632R^2+ -282.40166666666534R^3
+
+The value of the function is : 
+-0.002083333333473547R^3+ 0.11208333333888731R^2+ 1.6862041666463483R^1+ -2.9607725001114886R^0
+
+The solution to the Lagrange Interpolation problem is :
+19.137824166710928
+Incorrect,or Missing Arguments provided ; The values provides were :  
+
+[ 
+[ 8.7 , 18.82091 ]
+[ 8.6 , 18.50515 ]
+[ 8.3 , 17.56492 ]
+[ 8.1 , 16.9441 ]
+
+ ] 
+The value of the function is : 
+-8.6R^0+ 1.0R^1
+
+The value of the function is : 
+71.38000000000001R^0+ -16.9R^1+ 1.0R^2
+
+The value of the function is : 
+-578.178R^0+ 208.26999999999998R^1+ -25.0R^2+ 1.0R^3
+
+The value of the function is : 
+-24090.750000000186R^0+ 8677.916666666732R^1+ -1041.6666666666747R^2+ 41.666666666666984R^3
+
+The value of the function is : 
+-453409.8375825035R^0+ 163326.28857083456R^1+ -19605.114583333485R^2+ 784.2045833333393R^3
+
+The value of the function is : 
+-8.7R^0+ 1.0R^1
+
+The value of the function is : 
+72.21R^0+ -17.0R^1+ 1.0R^2
+
+The value of the function is : 
+-584.901R^0+ 209.90999999999997R^1+ -25.1R^2+ 1.0R^3
+
+The value of the function is : 
+38993.40000000027R^0+ -13994.000000000096R^1+ 1673.3333333333453R^2+ -66.66666666666714R^3
+
+The value of the function is : 
+721578.716010005R^0+ -258961.0691000018R^1+ 30965.284333333555R^2+ -1233.6766666666754R^3
+
+The value of the function is : 
+-8.7R^0+ 1.0R^1
+
+The value of the function is : 
+74.82R^0+ -17.299999999999997R^1+ 1.0R^2
+
+The value of the function is : 
+-606.0419999999999R^0+ 214.94999999999996R^1+ -25.4R^2+ 1.0R^3
+
+The value of the function is : 
+-25251.75000000004R^0+ 8956.250000000015R^1+ -1058.333333333335R^2+ 41.666666666666735R^3
+
+The value of the function is : 
+-443544.96861000074R^0+ 157315.81475000025R^1+ -18589.540333333363R^2+ 731.8716666666679R^3
+
+The value of the function is : 
+-8.7R^0+ 1.0R^1
+
+The value of the function is : 
+74.82R^0+ -17.299999999999997R^1+ 1.0R^2
+
+The value of the function is : 
+-621.006R^0+ 218.40999999999997R^1+ -25.599999999999998R^2+ 1.0R^3
+
+The value of the function is : 
+10350.099999999951R^0+ -3640.1666666666492R^1+ 426.66666666666464R^2+ -16.66666666666659R^3
+
+The value of the function is : 
+175373.12940999915R^0+ -61679.348016666365R^1+ 7229.482666666632R^2+ -282.40166666666534R^3
+
+The value of the function is : 
+-0.002083333333473547R^3+ 0.11208333333888731R^2+ 1.6862041666463483R^1+ -2.9607725001114886R^0
+
+The solution to the Lagrange Interpolation problem is :
+19.137824166710928
+Incorrect,or Missing Arguments provided ; The values provides were :  
+
+[ 
+[ 8.7 , 18.82091 ]
+[ 8.6 , 18.50515 ]
+[ 8.3 , 17.56492 ]
+[ 8.1 , 16.9441 ]
+ ] 
+The value of the function is : 
+-8.6R^0+ 1.0R^1
+
+The value of the function is : 
+71.38000000000001R^0+ -16.9R^1+ 1.0R^2
+
+The value of the function is : 
+-578.178R^0+ 208.26999999999998R^1+ -25.0R^2+ 1.0R^3
+
+The value of the function is : 
+-24090.750000000186R^0+ 8677.916666666732R^1+ -1041.6666666666747R^2+ 41.666666666666984R^3
+
+The value of the function is : 
+-453409.8375825035R^0+ 163326.28857083456R^1+ -19605.114583333485R^2+ 784.2045833333393R^3
+
+The value of the function is : 
+-8.7R^0+ 1.0R^1
+
+The value of the function is : 
+72.21R^0+ -17.0R^1+ 1.0R^2
+
+The value of the function is : 
+-584.901R^0+ 209.90999999999997R^1+ -25.1R^2+ 1.0R^3
+
+The value of the function is : 
+38993.40000000027R^0+ -13994.000000000096R^1+ 1673.3333333333453R^2+ -66.66666666666714R^3
+
+The value of the function is : 
+721578.716010005R^0+ -258961.0691000018R^1+ 30965.284333333555R^2+ -1233.6766666666754R^3
+
+The value of the function is : 
+-8.7R^0+ 1.0R^1
+
+The value of the function is : 
+74.82R^0+ -17.299999999999997R^1+ 1.0R^2
+
+The value of the function is : 
+-606.0419999999999R^0+ 214.94999999999996R^1+ -25.4R^2+ 1.0R^3
+
+The value of the function is : 
+-25251.75000000004R^0+ 8956.250000000015R^1+ -1058.333333333335R^2+ 41.666666666666735R^3
+
+The value of the function is : 
+-443544.96861000074R^0+ 157315.81475000025R^1+ -18589.540333333363R^2+ 731.8716666666679R^3
+
+The value of the function is : 
+-8.7R^0+ 1.0R^1
+
+The value of the function is : 
+74.82R^0+ -17.299999999999997R^1+ 1.0R^2
+
+The value of the function is : 
+-621.006R^0+ 218.40999999999997R^1+ -25.599999999999998R^2+ 1.0R^3
+
+The value of the function is : 
+10350.099999999951R^0+ -3640.1666666666492R^1+ 426.66666666666464R^2+ -16.66666666666659R^3
+
+The value of the function is : 
+175373.12940999915R^0+ -61679.348016666365R^1+ 7229.482666666632R^2+ -282.40166666666534R^3
+
+The value of the function is : 
+-0.002083333333473547R^3+ 0.11208333333888731R^2+ 1.6862041666463483R^1+ -2.9607725001114886R^0
+
+The solution to the Lagrange Interpolation problem is :
+19.137824166710928
